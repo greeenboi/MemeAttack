@@ -1,9 +1,11 @@
 [package]
-name = "meme attack"
+name = "meme-attack"
 version = "0.1.0"
 edition = "2021"
 authors = ["Suvan GS <contact@suvangs.tech>", "Vinay Rajan <contact@suvangs.tech>"]
 license = "MIT"
+description = "A fun meme generator and attacker tool."
+documentation = "https://github.com/suvangs/meme-attack#readme"
 
 [dependencies]
 image = "0.24"
